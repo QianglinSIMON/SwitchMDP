@@ -12,7 +12,7 @@ This repository provides a full implementation for evaluating ATE estimation met
 
 Visualization of our MDP with autocorrelated reward errors. The solid lines represent the causal relationships. The dashed lines imply that the reward errors are potentially correlated.
 
-![MDP Visualization](images/mdp_model.png)
+![MDP Visualization](nonMDP_dag.png)
 
 ---
 
