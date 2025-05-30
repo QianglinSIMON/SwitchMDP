@@ -8,6 +8,12 @@
 
 This repository provides a full implementation for evaluating ATE estimation methods in switchback experiments under various Markov Decision Process (MDP) settings. Our focus is on understanding the impact of **carryover effects** and **reward autocorrelations** on estimation bias and variance.
 
+## 🧩 Graphical Visualization of Our Model
+
+Visualization of our MDP with autocorrelated reward errors. The solid lines represent the causal relationships. The dashed lines imply that the reward errors are potentially correlated.
+
+![MDP Visualization](images/mdp_model.png)
+
 ---
 
 ## 📂 File Overview
