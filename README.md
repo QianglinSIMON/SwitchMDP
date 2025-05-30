@@ -1,5 +1,5 @@
 # SwitchMDP
-**Unraveling the Interplay Between Carryover Effects and Reward Autocorrelations in Switchback Experiments**  
+[**Unraveling the Interplay Between Carryover Effects and Reward Autocorrelations in Switchback Experiments**](https://arxiv.org/html/2403.17285v3)
 *(ICML 2025 accepted)*
 
 ---
